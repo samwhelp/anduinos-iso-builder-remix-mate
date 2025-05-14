@@ -1,0 +1,51 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Mate
+##
+
+mate-desktop-environment
+
+
+mate-tweak
+
+
+
+
+##
+## ## Package / Window Manager / compiz
+##
+
+compiz
+compiz-plugins
+compiz-mate
+
+
+compizconfig-settings-manager
+
+
+
+
+##
+## ## Package / Desktop Environment
+##
+
+accountsservice
+
+asunder
+atril
+
+
+gnome-disk-utility
+gnome-keyring
+gnome-nettool
+gnome-system-tools
+
+remmina
