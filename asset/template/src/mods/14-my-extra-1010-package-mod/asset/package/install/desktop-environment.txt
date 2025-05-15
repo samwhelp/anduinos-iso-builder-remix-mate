@@ -22,6 +22,16 @@ mate-applet-brisk-menu
 
 
 
+nemo
+
+
+mate-terminal
+lxterminal
+sakura
+
+
+
+
 ##
 ## ## Package / Window Manager / compiz
 ##
