@@ -38,6 +38,7 @@ sakura
 
 compiz
 compiz-plugins
+compiz-plugins-extra
 compiz-mate
 
 
