@@ -14,12 +14,24 @@
 mate-desktop-environment
 
 
+gnome-settings-daemon
+
+
 mate-tweak
 
 
 mate-applet-brisk-menu
 
 
+mate-control-center
+
+
+caja
+caja-open-terminal
+caja-actions
+caja-wallpaper
+caja-sendto
+caja-extensions-common
 
 
 nemo
@@ -28,6 +40,10 @@ nemo
 mate-terminal
 lxterminal
 sakura
+
+
+pluma
+pluma-plugins
 
 
 
