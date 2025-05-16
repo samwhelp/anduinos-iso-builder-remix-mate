@@ -26,6 +26,12 @@ mate-applet-brisk-menu
 mate-control-center
 
 
+mate-utils
+mate-media
+
+
+
+
 caja
 caja-open-terminal
 caja-actions

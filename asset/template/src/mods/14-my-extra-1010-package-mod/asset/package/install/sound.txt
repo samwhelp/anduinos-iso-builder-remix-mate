@@ -1,0 +1,33 @@
+
+
+##
+## # Sound
+##
+
+
+
+
+##
+## ## Package / alsa-utils
+##
+
+## install `alsa-utils` for `amixer`
+alsa-utils
+
+
+
+
+##
+## ## Package / pamixer
+##
+
+pamixer
+
+
+
+
+##
+## ## Package / pipewire
+##
+
+pipewire
