@@ -42,7 +42,7 @@ locked=true
 
 [Object terminal]
 object-type=launcher
-launcher-location=/usr/share/applications/sakura.desktop
+launcher-location=/usr/share/applications/mate-terminal.desktop
 toplevel-id=main-panel
 position=14
 locked=true
