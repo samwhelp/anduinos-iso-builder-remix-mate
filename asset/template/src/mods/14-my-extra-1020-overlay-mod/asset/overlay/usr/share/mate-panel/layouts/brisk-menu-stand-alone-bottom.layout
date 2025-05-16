@@ -26,7 +26,7 @@ locked=true
 
 [Object text-editor]
 object-type=launcher
-launcher-location=/usr/share/applications/org.xfce.mousepad.desktop
+launcher-location=/usr/share/applications/pluma.desktop
 toplevel-id=main-panel
 position=12
 locked=true
