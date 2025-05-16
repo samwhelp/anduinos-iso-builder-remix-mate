@@ -8,6 +8,16 @@
 
 
 ##
+## ## Package / mate-media
+##
+
+## install `mate-media` for `mate-volume-control` and `mate-volume-control-status-icon`
+mate-media
+
+
+
+
+##
 ## ## Package / alsa-utils
 ##
 
