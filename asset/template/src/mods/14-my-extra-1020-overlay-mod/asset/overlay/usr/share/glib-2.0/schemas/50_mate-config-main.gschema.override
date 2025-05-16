@@ -27,7 +27,11 @@ event-sounds=false
 ##
 ## ## gsettings
 ##
+## ``` sh
+## gsettings list-recursively | grep font | grep mate
 ## ```
+##
+## ``` sh
 ## gsettings set org.mate.interface document-font-name 'Sans 12'
 ## gsettings set org.mate.interface font-name 'Sans 12'
 ## gsettings set org.mate.interface monospace-font-name 'Monospace 12'
