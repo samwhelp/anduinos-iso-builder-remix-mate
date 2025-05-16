@@ -12,7 +12,7 @@
 ##
 
 fonts-ubuntu
-fonts-ubuntu fonts-ubuntu-console
+fonts-ubuntu-console
 
 
 
