@@ -46,6 +46,10 @@ pluma
 pluma-plugins
 
 
+pcmanfm
+lxterminal
+
+
 
 
 ##
