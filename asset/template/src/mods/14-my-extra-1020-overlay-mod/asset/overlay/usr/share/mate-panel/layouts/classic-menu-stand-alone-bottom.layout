@@ -17,7 +17,7 @@ locked=true
 
 [Object file-manager]
 object-type=launcher
-launcher-location=/usr/share/applications/pcmanfm-qt.desktop
+launcher-location=/usr/share/applications/nemo.desktop
 toplevel-id=main-panel
 position=11
 locked=true
