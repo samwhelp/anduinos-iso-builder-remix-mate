@@ -21,3 +21,23 @@ remember-numlock-state=true
 [org.mate.sound]
 event-sounds=false
 
+
+
+
+##
+## ## gsettings
+##
+## ```
+## gsettings set org.mate.interface document-font-name 'Sans 12'
+## gsettings set org.mate.interface font-name 'Sans 12'
+## gsettings set org.mate.interface monospace-font-name 'Monospace 12'
+## gsettings set org.mate.interface use-custom-font true
+## ```
+##
+
+
+[org.mate.interface]
+document-font-name='Sans 12'
+font-name='Sans 12'
+monospace-font-name='Monospace 12'
+use-custom-font=true
