@@ -117,10 +117,10 @@ make combine-via-git
 ### Build All
 
 
-> change dir to `~/work/anduinos-iso-builder-mate/iso-profile`
+> change dir to `~/work/anduinos-iso-builder-remix-mate/iso-profile`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-mate/iso-profile
+cd ~/work/anduinos-iso-builder-remix-mate/iso-profile
 ```
 
 
@@ -143,10 +143,10 @@ make build-fast
 ### Build Default
 
 
-> change dir to `~/work/anduinos-iso-builder-mate/iso-profile/src`
+> change dir to `~/work/anduinos-iso-builder-remix-mate/iso-profile/src`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-mate/iso-profile/src
+cd ~/work/anduinos-iso-builder-remix-mate/iso-profile/src
 ```
 
 
