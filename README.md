@@ -18,6 +18,7 @@
 ## Subject
 
 * [Source](#source)
+* [Module](#module)
 * [Remix](#remix)
 * [Howto](#howto)
 
@@ -29,6 +30,22 @@
 | Source |
 | --- |
 | GitHub / [AnduinOS](https://github.com/Anduin2017/AnduinOS)
+
+
+
+
+## Module
+
+| Main Module |
+| ----------- |
+| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) |
+| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) |
+
+
+| Infrastructure |
+| -------------- |
+| [60-dconf-system-db-init-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/60-dconf-system-db-init-mod) |
+| [61-gsettings-schema-compile-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/61-gsettings-schema-compile-mod) |
 
 
 
