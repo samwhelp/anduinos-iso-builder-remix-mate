@@ -13,6 +13,7 @@
 ## Subject
 
 * [Source](#source)
+* [Module](#module)
 * [Remix](#remix)
 * [Howto](#howto)
 
@@ -28,6 +29,22 @@
 
 
 
+## Module
+
+| Main Module |
+| ----------- |
+| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) |
+| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) |
+
+
+| Infrastructure | Purpose |
+| -------------- | ------- |
+| [60-dconf-system-db-init-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/60-dconf-system-db-init-mod) | [/etc/dconf](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/dconf) |
+| [61-gsettings-schema-compile-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/61-gsettings-schema-compile-mod) | [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/anduinos-iso-builder-remix-mate/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/usr/share/glib-2.0/schemas) |
+
+
+
+
 ## Remix
 
 | Link | GitHub |
@@ -38,6 +55,11 @@
 | [AnduinOS / ISO Builder / Remix / Lxqt](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt) |
 | [AnduinOS / ISO Builder / Remix / Mate](https://samwhelp.github.io/anduinos-iso-builder-remix-mate/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate) |
 | [AnduinOS / ISO Builder / Remix / Cinnamon](https://samwhelp.github.io/anduinos-iso-builder-remix-cinnamon/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-cinnamon) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [AnduinOS / ISO Builder / Remix / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz) |
 
 
 
@@ -86,10 +108,10 @@ make combine-via-git
 ### Build All
 
 
-> change dir to `~/work/anduinos-iso-builder/iso-profile`
+> change dir to `~/work/anduinos-iso-builder-mate/iso-profile`
 
 ``` sh
-cd ~/work/anduinos-iso-builder/iso-profile
+cd ~/work/anduinos-iso-builder-mate/iso-profile
 ```
 
 
@@ -112,10 +134,10 @@ make build-fast
 ### Build Default
 
 
-> change dir to `~/work/anduinos-iso-builder/iso-profile/src`
+> change dir to `~/work/anduinos-iso-builder-mate/iso-profile/src`
 
 ``` sh
-cd ~/work/anduinos-iso-builder/iso-profile/src
+cd ~/work/anduinos-iso-builder-mate/iso-profile/src
 ```
 
 
